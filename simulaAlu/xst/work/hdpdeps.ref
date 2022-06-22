@@ -1,0 +1,19 @@
+V3 14
+FL C:/Xilinx/simulaAlu/Alu.vhd 2022/06/22.09:38:18 P.20131013
+EN work/ALU 1655910434 FL C:/Xilinx/simulaAlu/Alu.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/ALU/Behavioral 1655910435 \
+      FL C:/Xilinx/simulaAlu/Alu.vhd EN work/ALU 1655910434
+FL C:/Xilinx/simulaAlu/Alu_text.vhd 2022/06/22.10:07:12 P.20131013
+EN work/Alu_Test 0 FL C:/Xilinx/simulaAlu/Alu_text.vhd PB ieee/std_logic_1164 1381692176
+AR work/Alu_Test/behavior 0 \
+      FL C:/Xilinx/simulaAlu/Alu_text.vhd EN work/Alu_Test 0 CP EjercicioAlu
+FL C:/Xilinx/simulaAlu/EjercicioAlu.vhd 2022/06/22.10:08:45 P.20131013
+EN work/EjercicioAlu 1655911265 FL C:/Xilinx/simulaAlu/EjercicioAlu.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/EjercicioAlu/Behavioral 1655911266 \
+      FL C:/Xilinx/simulaAlu/EjercicioAlu.vhd EN work/EjercicioAlu 1655911265
+FL C:/Xilinx/simulaAlu/Prueba.vhd 2022/06/22.09:53:04 P.20131013
+EN work/asignar 0 FL C:/Xilinx/simulaAlu/Prueba.vhd PB ieee/std_logic_1164 1381692176
+AR work/asignar/behavior 0 \
+      FL C:/Xilinx/simulaAlu/Prueba.vhd EN work/asignar 0 CP alu

@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Xilinx/simulaAlu/EjercicioAlu.xst" -ofn "C:/Xilinx/simulaAlu/EjercicioAlu.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 EjercicioAlu.ngc EjercicioAlu.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o EjercicioAlu_map.ncd EjercicioAlu.ngd EjercicioAlu.pcf 
+par -w -intstyle ise -ol high -t 1 EjercicioAlu_map.ncd EjercicioAlu.ncd EjercicioAlu.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml EjercicioAlu.twx EjercicioAlu.ncd -o EjercicioAlu.twr EjercicioAlu.pcf 

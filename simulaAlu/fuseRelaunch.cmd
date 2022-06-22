@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Xilinx/simulaAlu/Alu_Test_isim_beh.exe" -prj "C:/Xilinx/simulaAlu/Alu_Test_beh.prj" "work.Alu_Test" 

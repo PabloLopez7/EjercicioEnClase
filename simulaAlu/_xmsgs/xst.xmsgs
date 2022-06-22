@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Xilinx/simulaAlu/Alu_text.vhd</arg>&quot; Line <arg fmt="%d" index="2">72</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Xilinx/simulaAlu/Alu_text.vhd</arg>&quot; Line <arg fmt="%d" index="2">74</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Xilinx/simulaAlu/Alu_text.vhd</arg>&quot; Line <arg fmt="%d" index="2">76</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Xilinx/simulaAlu/Alu_text.vhd</arg>&quot; Line <arg fmt="%d" index="2">78</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Xilinx/simulaAlu/Alu_text.vhd</arg>&quot; Line <arg fmt="%d" index="2">80</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Xilinx/simulaAlu/Alu_text.vhd</arg>&quot; Line <arg fmt="%d" index="2">82</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Xilinx/simulaAlu/Alu_text.vhd</arg>&quot; Line <arg fmt="%d" index="2">84</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Xilinx/simulaAlu/Alu_text.vhd</arg>&quot; Line <arg fmt="%d" index="2">86</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Xilinx/simulaAlu/Alu_text.vhd</arg>&quot; Line <arg fmt="%d" index="2">88</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Xilinx/simulaAlu/Alu_text.vhd</arg>&quot; Line <arg fmt="%d" index="2">90</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Xilinx/simulaAlu/Alu_text.vhd</arg>&quot; Line <arg fmt="%d" index="2">92</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Xilinx/simulaAlu/Alu_text.vhd</arg>&quot; Line <arg fmt="%d" index="2">94</arg>. Wait for statement unsupported.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">C:/Xilinx/simulaAlu/Alu_text.vhd</arg>&quot; Line <arg fmt="%d" index="2">96</arg>. Wait for statement unsupported.
+</msg>
+
+</messages>
+
